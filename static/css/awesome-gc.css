@@ -1,0 +1,37 @@
+main {
+    max-width: 970px;
+    font-size: 16px;
+}
+
+.h1, .h2, .h3, .h4, h1, h2, h3, h4 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* awesome-gc */
+.awesome-gc .logo-wrapper {
+    text-align: center;
+}
+.awesome-gc .logo {
+    width:200px;
+    padding-top: 10vh;
+}
+
+.awesome-gc h1,
+.awesome-gc h5 {
+    text-align: center;
+}
+
+.awesome-gc h1 {
+    color: #212121;
+    font-size: calc(30px + 4vw);
+    padding-top: 0;
+    margin-top: 1vh;
+}
+.awesome-gc h5 {
+    font-size: 3vh;
+    color: #757575;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    width:90%;
+}

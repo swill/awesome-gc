@@ -1,0 +1,12 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="awesome-gc text-justify">
+        {{ if .Site.Params.logo | default false }}<div class="logo-wrapper"><img class="logo" src="{{ .Site.Params.logo | absURL }}" /></div>{{end}}
+        {{ readFile "README.md" | markdownify }}
+    </div>
+
+</main>
+
+{{ partial "footer" . }}

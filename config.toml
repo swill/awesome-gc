@@ -18,7 +18,7 @@ googleAnalytics = ""
     # highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     # theme overrides
     css = ["css/awesome-gc.css"]
-    copyright = "The contents of this website is maintained by the community and is **not** an official Goverment of Canada resource."
+    copyright = "The contents of this website is [maintained by the community](https://github.com/swill/awesome-gc/blob/master/CONTRIBUTING.md) and is **not** an official Goverment of Canada resource."
     logo = "img/maple_leaf.png"
 
 [[menu.main]]

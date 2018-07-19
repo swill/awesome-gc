@@ -33,7 +33,7 @@ To be on the list, project repositories should adhere to these quality standards
 
 ## Maintainers
 
-To make sure every PR is checked, we have a [team of maintainers](MAINTAINERS). Every PR MUST be reviewed by at least two maintainers before it can get merged. **Note: Please consider becoming a maintainer.**  *This rule will come into effect once there are at least two maintainers.*
+To make sure every PR is checked, we have a [team of maintainers](MAINTAINERS). Every PR MUST be reviewed by at least two maintainers before it can get merged. *This rule will come into effect once there are at least two maintainers.* **Note: Please consider becoming a maintainer.**  
 
 The maintainers will review your PR and notify you and tag it in case any
 information is still missing. They will wait 8 days for your interaction, after

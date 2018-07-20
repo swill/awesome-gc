@@ -8,7 +8,7 @@ googleAnalytics = ""
 [params]
     author = "Will Stevens"
     description = ""
-    githubUsername = "canada-ca"
+    githubUsername = "swill"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
@@ -46,14 +46,14 @@ googleAnalytics = ""
 #     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/canada-ca/"
+    url = "https://github.com/swill/awesome-gc/"
     name = "github"
     weight = 2
 
-[[menu.icon]]
-    url = "https://twitter.com/opengovcan/"
-    name = "twitter"
-    weight = 3
+# [[menu.icon]]
+#     url = "https://twitter.com/opengovcan/"
+#     name = "twitter"
+#     weight = 3
 
 # [[menu.icon]]
 #     url = "https://www.linkedin.com/in/username/"

@@ -11,6 +11,7 @@
 - [Digital Playbook](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/overview.html) - Provides practical and measurable guidance to assist individual projects with becoming more agile, open and user-focused.
 - [Government of Canada GitHub](https://github.com/canada-ca) - Public repositories provided by the Government of Canada.
 - [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper) - A whitepaper to pull together the thinking on how to shift government to an "Open" approach.
+- [Open Government Canada Twitter](https://twitter.com/opengovcan/) - Raising awareness and sparking dialogue about Open Government efforts.
 - [Open Resource Exchange](https://canada-ca.github.io/ore-ero/home.html) - Explore how Canadian public administrations (federal, provincial, territorial and municipal) creates greater transparency, accountability, increases citizen engagement, and drives innovation and economic opportunities through open Standards, open source software, open data, open information, open dialogue and open Government.
     - [Open Government](https://open.canada.ca/en) - Open Government is about making government more accessible to everyone. Participate in conversations, find data and digital records, and learn about open government.
         - [About Open Government](https://open.canada.ca/en/about-open-government) - Explore Canada’s open government commitments, discover open government programs across Canada, and learn more about the Open Government Licence.

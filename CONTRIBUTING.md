@@ -3,6 +3,7 @@
 This resource is a community effort and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/swill/awesome-gc/graphs/contributors).
 
 - **To add, remove, or change things on the list:** `Submit a pull request`
+- Changes to the content should be made in the `README.md` file. 
 
 Please follow the following guidelines when contributing:
 

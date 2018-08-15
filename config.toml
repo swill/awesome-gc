@@ -1,9 +1,10 @@
-baseURL = "http://awesome-gc.com/"
+baseURL = "https://awesome-gc.com/"
 languageCode = "en-us"
 title = "awesome-gc"
 theme = "minimal"
 #disqusShortname = "" # delete this to disable disqus comments
 googleAnalytics = ""
+canonifyurls = true
 
 [params]
     author = "Will Stevens"
